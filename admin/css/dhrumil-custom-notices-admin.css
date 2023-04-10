@@ -1,0 +1,82 @@
+.dhrunotcus-main-wrapper{
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    padding-top: 4em;
+    padding-bottom: 0;
+}
+
+#dhrunotcus-users-table{
+    box-sizing: border-box;
+}
+
+.dhrunotcus-users-table-row{
+    font-size: 16px;
+    line-height: 4em;
+}
+
+.dhrunotcus-users-table-body .dhrunotcus-users-table-row:nth-child(even){
+    background: #eee;
+    color: #333;
+}
+
+.dhrunotcus-users-table-body .dhrunotcus-users-table-row a{
+    color: #ffffff;
+    text-decoration: none;
+    line-height: 4em;
+    padding: .69em 1em;
+    background: #02445d;
+    border-radius: 5px;
+}
+
+.dhrunotcus-users-table-body .dhrunotcus-users-table-row:nth-child(odd){
+    background: #ddd;
+    color: #333;
+}
+
+.dhrunotcus-users-table-body tr td:last-child, .dhrunotcus-users-table-body tr td:first-child{
+    text-align: center;
+}
+
+.dhrunotcus-users-table-body tr td{
+    padding: 0 .69em;
+}
+
+.dhrunotcus-users-table-header{
+    background: #000;
+    color: #fff;
+}
+
+.dhrunotcus-form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 20em;
+    justify-content: space-between;
+}
+
+.dhrunotcus-form-btn{
+    padding: .69em 2em;
+    border-radius: 10px;
+    border: 0;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.dhrunotcus-form-submit-btn{
+    background: #50f;
+    color: #fff;
+}
+
+.dhrunotcus-form-back-btn{
+    background: #ff1b49;
+    color: #fff !important;
+}
+
+#wpbody-content .action_buttons{
+    display: flex;
+}
+
+#wpbody-content .action_buttons div{
+    margin: 5px 10px 5px 0px;
+}
