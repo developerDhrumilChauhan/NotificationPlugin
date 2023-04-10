@@ -1,0 +1,15 @@
+[25-Jan-2021 09:11:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php:6
+Stack trace:
+#0 /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php(17): checkForNewNotices()
+#1 {main}
+  thrown in /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php on line 6
+[25-Jan-2021 09:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php:6
+Stack trace:
+#0 /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php(17): checkForNewNotices()
+#1 {main}
+  thrown in /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php on line 6
+[25-Jan-2021 09:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php:6
+Stack trace:
+#0 /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php(17): checkForNewNotices()
+#1 {main}
+  thrown in /home/techg647/public_html/wavetgolf/wp-content/plugins/dhrumil-custom-notices/public/class-dhrumil-custom-notices-ajax-call.php on line 6
